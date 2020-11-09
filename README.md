@@ -1,2 +1,2 @@
-# Recurrent-Neural-Networks-
-In this model we will predict upward and downward trend of google stock prize
+# Stock Price Prediction
+In this project we tried predict upward and downward trend of google stock prize using RNN
